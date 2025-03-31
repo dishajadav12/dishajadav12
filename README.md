@@ -1,10 +1,12 @@
  <div align="center">
 
-  <div >
-    <p>ℍ𝕖𝕪, 𝕀’𝕞 𝔻𝕚𝕤𝕙𝕒! – 𝕀 𝕓𝕣𝕖𝕒𝕜 𝕔𝕠𝕕𝕖 (𝕒𝕟𝕕 𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤 𝕗𝕚𝕩 𝕚𝕥 𝕥𝕠𝕠). 😎</p>
-  </div>
+   
+<p align="center">
+  <br><img src="./assets/images/Intro_headline.png" />
+</p>
 
-  <div id="header" align="center" style="padding-top: 50px;">
+
+  <div id="header" align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM0dWhrZHB2bzZnZXFseWdxOXdtMWhodHFlbjhsaXEweGhobXk1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6FT3QE3AJMfwJDZBNr/giphy.gif" width="100"/>
     <!-- 𝕿𝖚𝖗𝖓𝖎𝖓𝖌 𝖈𝖔𝖋𝖋𝖊𝖊 𝖎𝖓𝖙𝖔 𝖈𝖔𝖉𝖊 & 𝖎𝖉𝖊𝖆𝖘 𝖎𝖓𝖙𝖔 𝖗𝖊𝖆𝖑𝖎𝖙𝖞 -->
 <p>
