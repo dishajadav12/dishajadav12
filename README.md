@@ -15,7 +15,14 @@
   <p>
     <img src="./assets/images/Intro_headline.png" width="100%" alt="Intro Headline" />
   </p>
-
+  
+   
+  <p align="left">
+  <h3>Tech Stack:</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,html,htmx,css,nextjs,react,nodejs,prisma,supabase,vscode,git,github" width="70%"/>
+    </a>
+  </p>
   <!-- Stats and Streak Side by Side -->
   <table>
     <tr>
