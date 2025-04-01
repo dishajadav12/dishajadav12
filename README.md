@@ -23,6 +23,8 @@
       <img src="https://skillicons.dev/icons?i=ts,js,html,htmx,css,nextjs,react,nodejs,prisma,supabase,vscode,git,github" width="70%"/>
     </a>
   </p>
+  <br/>
+  <br/>
   <!-- Stats and Streak Side by Side -->
   <table>
     <tr>
