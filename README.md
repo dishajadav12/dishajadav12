@@ -32,7 +32,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishajadav12&theme=blueberry" alt="GitHub Stats" />
       </td>
       <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dishajadav12&theme=iceberg&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dishajadav12&theme=iceberg&hide_border=true&border_radius=10&exclude_days=Sun" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
